@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Temporary Code Runner files
+tempCodeRunnerFile.java
+
+# IDE files
+.vscode/
+.idea/
+
+
+# Ignore compiled Java files
+*.class
+
+# Ignore temporary code files
+tempCodeRunnerFile.java
+
+# Ignore VS Code settings
+.vscode/
